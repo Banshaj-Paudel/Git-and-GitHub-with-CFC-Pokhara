@@ -1,6 +1,6 @@
 # Information
 
-- Name: Banshaj Paudel
-- City: Kathmandu
-- Semester: Graduate/BCA
-- GitHub: Banshaj-Paudel
+- Name: Romeo Thapa
+- City: Pokhara
+- Semester: 2nd semester/BE Computer
+- GitHub: @thaparomeo15-creator
