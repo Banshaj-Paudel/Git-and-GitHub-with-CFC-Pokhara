@@ -2,5 +2,5 @@
 
 - Name: Nirvik K.C.
 - City: Kathmandu
-- GitHub: Banshaj-Paudel
+- GitHub: Nirvik-49
 - Session: From Version Control to AI‑Assisted Coding
