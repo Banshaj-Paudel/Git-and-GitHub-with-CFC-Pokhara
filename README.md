@@ -1,6 +1,6 @@
 # Information
 
-- Name: Banshaj Paudel
+- Name: Nirvik K.C.
 - City: Kathmandu
-- Semester: Graduate/BCA
 - GitHub: Banshaj-Paudel
+- Session: From Version Control to AI‑Assisted Coding
